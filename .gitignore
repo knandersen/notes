@@ -1,0 +1,5 @@
+RunningNotes.md
+*.cache
+*.lock
+node_modules/
+dist/
